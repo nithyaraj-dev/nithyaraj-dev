@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hello, I'm Nithyaraj
 
-<!--
-**nithyaraj-dev/nithyaraj-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | MEAN Stack | Android | JavaScript | Python
 
-Here are some ideas to get you started:
+I'm a passionate developer who builds scalable web and mobile applications. With experience across frontend, backend, and Android development, I bring clean code and full-stack solutions to life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Frontend**: Angular, TypeScript, HTML, SCSS
+- **Backend**: Node.js, Express, MongoDB, Python
+- **Mobile**: Android (Java, Kotlin), Firebase
+- **Tools**: Git, Postman, Docker, Figma
+
+---
+
+### 🔗 Connect with me
+- 🌐 [LinkedIn](https://linkedin.com/in/nithyaraj-dev)
+- 💻 [Dev Blog](https://dev.to/nithyarajdev)
+- 📫 `nithyaraj.dev@gmail.com`
+- 🗂️ [Portfolio Website](https://nithyaraj.dev) *(future-ready)*
+
+---
+
+### ⚡ Fun Facts
+- 💡 I believe in learning by building.
+- 🚀 Currently working on a MEAN stack SaaS project.
+- 🔥 I’m interested in open-source contributions and mentoring.
+
