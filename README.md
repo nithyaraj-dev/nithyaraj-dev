@@ -16,9 +16,9 @@ I'm a passionate developer who builds scalable web and mobile applications. With
 
 ### 🔗 Connect with me
 - 🌐 [LinkedIn](https://linkedin.com/in/nithyaraj-dev)
-- 💻 [Dev Blog](https://dev.to/nithyarajdev)
+- 💻 [Dev Blog](https://dev.to/nithyaraj-dev)
 - 📫 `nithyaraj.dev@gmail.com`
-- 🗂️ [Portfolio Website](https://nithyaraj.dev) *(future-ready)*
+- 🗂️ [Portfolio Website]() *(future-ready)*
 
 ---
 
